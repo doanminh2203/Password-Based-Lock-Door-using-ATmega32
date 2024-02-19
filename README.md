@@ -23,4 +23,4 @@
 - First of all, the user has to enter the old password to open the door
   ![image](https://github.com/doanminh2203/Password-Based-Lock-Door-using-ATmega32/assets/153622274/b2b1b125-b48a-4518-abc0-e3d895f5d13c)
 - If the password is correct, the user can press INT1 to change the password
-- ![image](https://github.com/doanminh2203/Password-Based-Lock-Door-using-ATmega32/assets/153622274/8be262d4-ce10-4608-98da-4d0476e9aa35)
+ ![image](https://github.com/doanminh2203/Password-Based-Lock-Door-using-ATmega32/assets/153622274/8be262d4-ce10-4608-98da-4d0476e9aa35)
